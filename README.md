@@ -5,7 +5,7 @@ This model allows you to connect standard hook-style earrings to your ears using
 - **With stem**: The earring dangles on a short stem below the magnet
 - **No stem**: The earring sits directly atop the magnet
 
-The goal to be able to wear standard earrings without piercing your ears.
+The goal is to be able to wear standard earrings without piercing your ears.
 
 ## You will need
 
